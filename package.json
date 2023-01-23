@@ -8,6 +8,7 @@
     "test:ci": "jest --ci"
   },
   "dependencies": {
+    "@prisma/client": "^4.9.0",
     "@tanstack/react-query": "^4.22.0",
     "@trpc/client": "^10.9.0",
     "@trpc/next": "^10.9.0",
